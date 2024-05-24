@@ -1,0 +1,11 @@
+
+
+.coluna{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.titulo{
+  text-align: center;
+}

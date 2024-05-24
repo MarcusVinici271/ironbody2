@@ -1,0 +1,19 @@
+
+.plano{
+  font-family: "League Gothic", sans-serif;
+  width: 200px;
+  height: 400px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;  
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: #ff5e03;  
+  box-shadow: 10px 0px 10px rgba(0, 0, 0, 0.5);
+  justify-items: center;
+  justify-content:center;
+  text-align: center;
+  
+}
+

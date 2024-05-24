@@ -1,0 +1,10 @@
+.footer{
+  display: flex;
+  font-family: "League Gothic", sans-serif;
+  color: white;
+  background-color: black;
+  height: 200px;
+  text-align:center;
+  align-items: center;
+  padding: 20px;
+}

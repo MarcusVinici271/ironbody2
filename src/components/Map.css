@@ -1,0 +1,21 @@
+.divmap{
+  text-align: center;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-family: "League Gothic", sans-serif;
+  
+}
+
+
+.map{
+  display: flex;
+  justify-items: center;
+  margin: 20px;  
+  width: 80%;
+  height: 300px;
+  justify-content: center;
+  text-align: center;
+  
+}
